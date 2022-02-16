@@ -1,6 +1,7 @@
 {
   "name": "client",
   "proxy": "http://localhost:5000",
+  "homepage": "www.devshubham.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
